@@ -32,6 +32,4 @@ Busco sempre aprimorar minhas habilidades e explorar novas tecnologias para cria
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-xavier-3292691a5/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ricardodepaulaxavier@gmail.com)
 
-## View count:
-![Profile Views](https://komarev.com/ghpvc/?username=RicardoPXavier&color=blue&style=flat)
  
