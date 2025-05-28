@@ -1,6 +1,6 @@
 ## About me
 
-Sou estudante de Ciência da Computação na UTFPR, com experiência em desenvolvimento de aplicações web utilizando Next.js, React, JavaScript e Firebase. Também tenho conhecimento em PHP e C/C++.  
+Sou estudante de Ciência da Computação na UTFPR, com experiência em desenvolvimento de aplicações web utilizando Next.js, React, JavaScript e Firebase. Também tenho conhecimento em C/C++.  
 
 Busco sempre aprimorar minhas habilidades e explorar novas tecnologias para criar soluções inovadoras, eficientes e de alta qualidade. Tenho facilidade em aprender, gosto de trabalhar em equipe e estou motivado a contribuir para projetos desafiadores. 
 
