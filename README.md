@@ -24,8 +24,7 @@ Busco sempre aprimorar minhas habilidades e explorar novas tecnologias para cria
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## Studying in this moment:
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/python-777BB4?style=for-the-badge&logo=python&logoColor=white)
 
 ## Contact me!
 
